@@ -34,7 +34,7 @@
   <img align="center" alt="Nerd-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Nerd-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Nerd-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Nerd-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/74xjKkusqYYAAAAC/my-hero-academia-boku-no-hero-academia.gif">
+  <img align="right" alt="Nerd-pic" height="120em" style="border-radius:50px;" src="https://c.tenor.com/74xjKkusqYYAAAAC/my-hero-academia-boku-no-hero-academia.gif">
 </div>
   
   ##
