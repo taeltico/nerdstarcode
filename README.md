@@ -7,8 +7,8 @@
 - ⚡ Fun fact: Apesar de estar fazendo faculdade de licenciatura plena em física, penso em seguir na carreira de desenvolvedor 😁
 <div align="center">
   <a href="https://github.com/nerdstarcode">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nerdstarcode&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerdstarcode&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=nerdstarcode&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerdstarcode&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Nerd-AfterEfects" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" />
