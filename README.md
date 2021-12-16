@@ -1,10 +1,12 @@
 ### Vida longa e próspera 🖖🏽
 
-
-- 🔭 Estou trabalhando como desinger gráfico
-- 🌱 Estou estudando para me formar como físico na graduação e estudando para ser um desenvolvedor full-stack com enfase no backend
-- 📫 Contate-me pelo email: sthivendev@gmail.com
-- ⚡ Fun fact: Apesar de estar fazendo faculdade de licenciatura plena em física, penso em seguir na carreira de desenvolvedor 😁
+<lu>
+  <li> 🔭 Estou trabalhando como desinger gráfico</li>
+  <li>📫 Contate-me pelo email: sthivendev@gmail.com</li>
+  <li>🌱 Estou estudando para ser um desenvolvedor full-stack com enfase no backend</li>
+  <li>⚡ Fun fact: Apesar de estar fazendo faculdade de licenciatura plena em física, penso em seguir na carreira de desenvolvedor 😁</li>
+</lu>
+<br>
 <div align="center">
   <a href="https://github.com/nerdstarcode">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=nerdstarcode&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
@@ -43,5 +45,6 @@
   <a href="https://www.workana.com/freelancer/54ac82ef8be82a137673b76e60ca820a" target="_blank"><img src="https://lh3.googleusercontent.com/FXHtxVfNSFzkaLsdlIt8DubB_tcD7kb2qlDv8OmF_EFunsuxJLopjV3MXzVUUmDRUCg=w512" height="28" style="border-radius:3px" target="_blank"></a> 
  
   ![Snake animation](https://github.com/nerdstarcode/nerdstarcode/blob/output/github-contribution-grid-snake.svg)
- 
+
+
 </div>
