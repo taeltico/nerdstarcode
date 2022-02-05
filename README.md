@@ -40,7 +40,7 @@
   ##
  
 <div> 
-  <a href="https://www.instagram.com/nerdstarcode/?hl=en" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/nerd_star_code/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:sthivendev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.workana.com/freelancer/54ac82ef8be82a137673b76e60ca820a" target="_blank"><img src="https://lh3.googleusercontent.com/FXHtxVfNSFzkaLsdlIt8DubB_tcD7kb2qlDv8OmF_EFunsuxJLopjV3MXzVUUmDRUCg=w512" height="28" style="border-radius:3px" target="_blank"></a> 
  
