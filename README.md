@@ -4,7 +4,7 @@
   <li> 🔭 Estou trabalhando como desinger gráfico</li>
   <li>📫 Contate-me pelo email: sthivendev@gmail.com</li>
   <li>🌱 Estou estudando para ser um desenvolvedor full-stack com enfase no backend</li>
-  <li>⚡ Fun fact: Apesar de estar fazendo faculdade de licenciatura plena em física, penso em seguir na carreira de desenvolvedor 😁</li>
+  <li>⚡ Fun fact: Estou para mudar de faculdade de licenciatura plena em física para Sistemas de Informação na UFRRJ 😁</li>
 </lu>
 <br>
 <div align="center">
