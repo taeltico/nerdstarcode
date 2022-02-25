@@ -4,7 +4,7 @@
   <li> 🔭 Estou trabalhando como desinger gráfico</li>
   <li>📫 Contate-me pelo email: sthivendev@gmail.com</li>
   <li>🌱 Estou estudando para ser um desenvolvedor full-stack com enfase no backend</li>
-  <li>⚡ Fun fact: Estou para mudar de faculdade de licenciatura plena em física para Sistemas de Informação na UFRRJ 😁</li>
+  <li>⚡ Fun fact: Físicos não são bons em nomear as coisas. Um exemplo disso são que as estrelas de nêutrons não são estrelas </li>
 </lu>
 <br>
 <div align="center">
